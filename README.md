@@ -9,6 +9,10 @@ En el 2022 Participé en el NASA Space Apps challenge.
 
 En mis tiempos libres me encanta ver contenido sobre tecnología, es un hábito, incluso en la ducha los escucho para aprovechar el tiempo en ése estado de relajación.
 
+Tanto así, que hice un nuevo canal de YouTube:
+![Captura de Pantalla 2025-07-02 a la(s) 22 18 13](https://github.com/user-attachments/assets/7434b268-67fc-4456-9274-637e2d1025bb)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jjcldev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/XRogers37232) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@RogersXYT/videos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realrogers.web@gmail.com) 
 
