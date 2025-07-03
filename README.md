@@ -1,5 +1,6 @@
 # 💫 About Me:
 Co-Fundador, director de operaciones y contenido de la próxima nueva red social "Socialler",  donde doy aportaciones de ideas intelectuales para el desarrollo de la app.<br><br>Desarrollo de software: Experiencia en mi estancia profesional (6 meses) en STEAM HUB México y prácticas (3 meses) en Torke, donde en ambas pude participar en distintos proyectos, que eran tanto de Web3 como Web 2.
+Partipé en el Hackaton MXNB de Bitso para contratos inteligentes de la Blockchain.
 
 
 ## 🌐 Socials:
