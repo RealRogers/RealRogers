@@ -1,7 +1,8 @@
 # 💫 About Me:
 Co-Fundador, director de operaciones y contenido de la próxima nueva red social "Socialler",  donde doy aportaciones de ideas intelectuales para el desarrollo de la app.<br><br>Desarrollo de software: Experiencia en mi estancia profesional (6 meses) en STEAM HUB México y prácticas (3 meses) en Torke, donde en ambas pude participar en distintos proyectos, que eran tanto de Web3 como Web 2.
 
-Partipé en el Hackaton MXNB  2025 de Bitso para contratos inteligentes de la Blockchain.
+Participé en el Hackaton MXNB  2025 de Bitso para contratos inteligentes de la Blockchain.
+
 En el 2022 Participé en el NASA Space Apps challenge.
 
 ![image_2025-05-31_16-52-06](https://github.com/user-attachments/assets/7c0b046c-af68-477a-a172-1ac26988fe05)
