@@ -4,8 +4,7 @@ Co-Fundador, director de operaciones y contenido de la próxima nueva red social
 Partipé en el Hackaton MXNB  2025 de Bitso para contratos inteligentes de la Blockchain.
 En el 2022 Participé en el NASA Space Apps challenge.
 
-![image_2025-05-31_16-52-06](https://github.com/user-attachments/assets/6256b751-1300-4c8f-94d0-f547a42bedab)
-
+![image_2025-05-31_16-52-06](https://github.com/user-attachments/assets/7c0b046c-af68-477a-a172-1ac26988fe05)
 
 
 ## 🌐 Socials:
