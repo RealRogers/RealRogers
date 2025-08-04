@@ -1,6 +1,47 @@
 # 💫 About Me:
 
-Ganamos 1er Lugar en el "World Computer Hackaton League", con nuestro proyecto "ckPayment" (Fase 1 de 4).
+👑 1° Primer Lugar  en el Hackaton con nuestro proyecto "ckPayment "... en el "World Computer Hackaton League", ganamos en Argentina (contra 21 equipos argentinos, abajo pondré la lista completa de países 👀 alrededor del mundo 🗺)  ... 
+
+Aquí aparece mi nombre:
+<img width="1271" height="643" alt="image" src="https://github.com/user-attachments/assets/5ef1e991-96eb-4426-a453-b36555508e23" />
+
+Pero no de la forma habitual ... yo no soy el único el protagonista, soy el que aportó a la verdadera persona indicada que sin él no hubiese sido posible.
+
+Debido a que gracias a la forma tan peculiar de procesar de mi colega Cesar Ángulo 🥷 , a pesar de que él ha estado sobre-cargado, trabajándo simultáneamente en otros proyectos, pero creyó en mí.
+
+Previamente, este estratega tan interesánte en su forma de resolver problemas ... ya había ganado 1er Lugar en ZK Sync del mundo Web3.
+
+- Faltan 3 fases más (3 meses de seguimiento)  ...  para terminar el evento.
+
+Cada año vendrán decenas de hackatones.
+
+Él es un inversor inteligente, empleó mi tiempo y aportes, iré mejorándo más valor en mis ideas con el tiempo, todo profesional tiene un inicio.
+___
+
+Todos los países que pasamos, con número de equipos por país:
+
+- (11,774 Hackers conformado en 1550 Equipos), pero solo quedamos estos de abajo:
+
+1. 🇰🇷 Korea (1 equipo)
+2. 🇺🇦 Ukraine (10 equipos)
+3. 🇵🇱 Poland (12 equipos)
+4. 🇵🇭 Philippines (15)
+5. 🇧🇷 Brazil (16)
+6. 🇨🇳 China (17)
+7. 🇦🇷 Argentina (21)
+8. 🇪🇬 Egypt (25)
+9. 🇺🇸 USA (27)
+10. 🇳🇬 Nigeria (32)
+11. 🇬🇧 United Kingdom (33)
+12. 🇵🇹 Portugal (34)
+13. 🇧🇬 Bulgaria (39)
+14. 🇨🇦 Canada (47)
+15. 🇰🇪 Kenya (52)
+16. 🇻🇳 Vietnam (57)
+17. 🇮🇩 Indonesia (101)
+18. 🇮🇳 India (502)
+
+
 <img width="532" height="738" alt="image" src="https://github.com/user-attachments/assets/fb641290-6b0e-495c-82de-4e286d8ede0f" />
 
 Co-Fundador, director de operaciones y contenido de la próxima nueva red social "Socialler",  donde doy aportaciones de ideas intelectuales para el desarrollo de la app.<br><br>Desarrollo de software: Experiencia en mi estancia profesional (6 meses) en STEAM HUB México y prácticas (3 meses) en Torke, donde en ambas pude participar en distintos proyectos, que eran tanto de Web3 como Web 2.
