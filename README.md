@@ -5,6 +5,8 @@
 Aquí aparece mi nombre:
 <img width="1271" height="643" alt="image" src="https://github.com/user-attachments/assets/5ef1e991-96eb-4426-a453-b36555508e23" />
 
+<img width="531" height="887" alt="image" src="https://github.com/user-attachments/assets/f7409717-39cd-4894-9751-cbcf5da36b82" />
+
 Pero no de la forma habitual ... yo no soy el único el protagonista, soy el que aportó a la verdadera persona indicada que sin él no hubiese sido posible.
 
 Debido a que gracias a la forma tan peculiar de procesar de mi colega Cesar Ángulo 🥷 , a pesar de que él ha estado sobre-cargado, trabajándo simultáneamente en otros proyectos, pero creyó en mí.
