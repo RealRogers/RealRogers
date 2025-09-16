@@ -46,9 +46,10 @@ Todos los países que pasamos, con número de equipos por país:
 
 <img width="532" height="738" alt="image" src="https://github.com/user-attachments/assets/fb641290-6b0e-495c-82de-4e286d8ede0f" />
 
-Co-Fundador, director de operaciones y contenido de la próxima nueva red social "Socialler",  donde doy aportaciones de ideas intelectuales para el desarrollo de la app.<br><br>Desarrollo de software: Experiencia en mi estancia profesional (6 meses) en STEAM HUB México y prácticas (3 meses) en Torke, donde en ambas pude participar en distintos proyectos, que eran tanto de Web3 como Web 2.
+Co-Fundador, director de operaciones y contenido de la próxima nueva red social "Socialler",  donde doy aportaciones de ideas intelectuales para el desarrollo de la app.<br>
+<img width="1440" height="727" alt="image_2025-09-15_17-22-08" src="https://github.com/user-attachments/assets/2b2708a9-3589-47d1-af7d-94c2bd1147db" />
 
-<img width="1440" height="727" alt="image_2025-09-15_17-22-08" src="https://github.com/user-attachments/assets/e863cf25-d5d7-4706-b697-e76ce23e9125" />
+<br>Desarrollo de software: Experiencia en mi estancia profesional (6 meses) en STEAM HUB México y prácticas (3 meses) en Torke, donde en ambas pude participar en distintos proyectos, que eran tanto de Web3 como Web 2.
 
 
 Participé en el Hackaton MXNB  2025 de Bitso para contratos inteligentes de la Blockchain.
