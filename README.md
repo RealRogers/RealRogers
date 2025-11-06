@@ -1,7 +1,7 @@
 # 💫 Sobre Mí
 
-<h1 align="center">Hi 👋, I'm Jesus Camacho (Rogers)</h1>
-<h3 align="center">A passionate Software Engineer from Mexico.</h3>
+<h1 align="center">Hola 👋, Soy Jesus Camacho (Rogers)</h1>
+<h3 align="center">Ingeniero de Software, desde Mexico.</h3>
 
 <div align="center">
   
