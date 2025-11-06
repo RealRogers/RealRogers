@@ -7,6 +7,7 @@
   
 ### 💻 Software Engineer | 🇲🇽 México | 🚀 Apasionado por la Tecnología
 
+- DA CLIC PARA ABRIR MIS REDES SOCIALES
 [![Twitter Follow](https://img.shields.io/twitter/follow/xrogers37232?style=social)](https://twitter.com/xrogers37232)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesus-camacho)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscribirse-red?style=flat&logo=youtube)](https://www.youtube.com/c/rogersx)
