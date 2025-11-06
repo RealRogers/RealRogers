@@ -85,11 +85,11 @@ Apasionado por la tecnología, comparto conocimiento y tendencias en mi canal de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealRogers&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealRogers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=21600)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RealRogers&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealRogers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealRogers&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=21600)
 
 </div>
 
