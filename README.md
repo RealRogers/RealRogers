@@ -34,9 +34,9 @@ Este logro fue posible gracias al trabajo en equipo con César Ángulo, estrateg
 
 ## 🎯 Participación en Hackathons
 
+- 🥇 **World Computer Hackathon League**: 1er Lugar Argentina
 - 🏆 **Hackathon MXNB 2025 - Bitso**: Desarrollo de contratos inteligentes en Blockchain
 - 🚀 **NASA Space Apps Challenge 2022**: Soluciones tecnológicas para desafíos espaciales
-- 🥇 **World Computer Hackathon League**: 1er Lugar Argentina
 
 ---
 
