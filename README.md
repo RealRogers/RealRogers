@@ -73,8 +73,6 @@ Este logro fue posible gracias al trabajo en equipo con César Ángulo, estrateg
 Apasionado por la tecnología, comparto conocimiento y tendencias en mi canal de YouTube sobre desarrollo, innovación y tech trends.
 <img width="1387" height="762" alt="image" src="https://github.com/user-attachments/assets/cf917aa6-d42a-4d41-ad41-2410e43a874f" />
 
-![Canal de YouTube](https://github.com/user-attachments/assets/7434b268-67fc-4456-9274-637e2d1025bb)
-
 *"Incluso en la ducha escucho contenido tech para aprovechar cada momento de aprendizaje"* 🚿🎧
 
 ## 🛠️ Stack Tecnológico
