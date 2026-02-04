@@ -19,9 +19,6 @@
 
 Soy un desarrollador de software apasionado por crear soluciones innovadoras y eficientes. Me encanta aprender constantemente sobre nuevas tecnologías y explorar diferentes áreas del conocimiento, incluso filosofía.
 
-- 🔭 Actualmente trabajando en proyectos multiplataforma
-- 🌱 Siempre aprendiendo y mejorando mis habilidades
-- 💡 Curioso por naturaleza, me encanta resolver problemas complejos
 - 📫 Contáctame: **realrogers.web@gmail.com**
 - ⚡ Dato curioso: **Mi curiosidad no tiene límites, incluso exploro la filosofía**
 
