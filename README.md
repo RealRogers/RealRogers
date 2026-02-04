@@ -46,8 +46,12 @@ Este logro fue posible gracias al trabajo en equipo con César Ángulo, estrateg
 ## 💼 Experiencia Profesional 
 
 ### Desarrollador Front End - Socialler https://www.socialler.net/
-- Llevo del diseño al código.
+- Del diseño al código, llevar la interfaz a producción, cuidar el comportamiento, su rendimiento, estabilidad y detalles visuales.
 - El registro ya está disponible, así que reserva tu usuario.
+
+<img width="1040" height="856" alt="image_2026-02-03_18-43-51" src="https://github.com/user-attachments/assets/f2069d02-a650-4087-a27b-610b0ee7a0dd" />
+
+<img width="966" height="851" alt="image_2026-02-03_18-43-55" src="https://github.com/user-attachments/assets/8032faac-30bf-4170-ac25-11f3b2997695" />
 
 <img width="1440" height="727" alt="Socialler Platform" src="https://github.com/user-attachments/assets/2b2708a9-3589-47d1-af7d-94c2bd1147db" />
 
