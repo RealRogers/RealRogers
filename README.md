@@ -75,7 +75,7 @@ Este logro fue posible gracias al trabajo en equipo con César Ángulo, estrateg
 
 ## 📺 Creador de Contenido
 
-Apasionado por la tecnología, comparto conocimiento y tendencias en mi canal de YouTube sobre desarrollo, innovación y tech trends.
+Apasionado por la tecnología, comparto conocimiento y tendencias en mi canal de YouTube sobre desarrollo e innovación.
 <img width="1387" height="762" alt="image" src="https://github.com/user-attachments/assets/cf917aa6-d42a-4d41-ad41-2410e43a874f" />
 
 *"Incluso en la ducha escucho contenido tech para aprovechar cada momento de aprendizaje"* 🚿🎧
