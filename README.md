@@ -45,8 +45,9 @@ Este logro fue posible gracias al trabajo en equipo con César Ángulo, estrateg
 
 ## 💼 Experiencia Profesional 
 
-### Co-Fundador & COO - Socialler
-**Director de Operaciones y Contenido** de la próxima red social donde aporto ideas estratégicas y visión de producto para el desarrollo de la plataforma.
+### Desarrollador Front End - Socialler https://www.socialler.net/
+- Llevo del diseño al código.
+- El registro ya está disponible, así que reserva tu usuario.
 
 <img width="1440" height="727" alt="Socialler Platform" src="https://github.com/user-attachments/assets/2b2708a9-3589-47d1-af7d-94c2bd1147db" />
 
